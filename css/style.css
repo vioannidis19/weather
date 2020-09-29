@@ -1,0 +1,12 @@
+.search-result {
+    border: 1px solid #aaa;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+.cont {
+    display: flex;
+    flex-wrap: wrap;
+}
